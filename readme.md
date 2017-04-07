@@ -4,8 +4,9 @@
 
 ## Contents
 
-- [Libraries](#libraries)
+- [Libraries and Plugins](#libraries-and-plugins)
   - [Compatibility Libraries](#compatibility-libraries)
+  - [Plugins](#plugins)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
   - [Getting Started](#getting-started)
@@ -19,7 +20,6 @@
 Javascript libraries you can use to make your nodebots come to life.
 
 - [Johnny-Five](http://johnny-five.io) — The premier Robotics and IoT platform for JavaScript.
-- [Temporal](https://github.com/rwaldron/temporal) — Task sequencing for your robot.
 
 ### Compatibility Libraries
 
@@ -30,12 +30,20 @@ Libraries that you may need depending on the board you're using for IO and Johnn
 - [Particle-IO](https://github.com/rwaldron/particle-io) — Compatibility library for the Spark Particle/Core/Photon IO.
 - [BeagleBone-IO](https://github.com/julianduque/beaglebone-io) — Compatibility library for the BeagleBone Black.
 
+### Plugins
+
+Plugins you may want to use to program your robots.
+
+- - [Temporal](https://github.com/rwaldron/temporal) — Task sequencing for your robot.
+
 ## Examples
 
 Amazing nodebots to see and be inspired by.
 
 - [Raspberry Pi KittyCam](https://github.com/girliemac/RPi-KittyCam) — an app using a Raspberry Pi with motion sensors and a camera by [Tomomi Imura](http://twitter.com/girlie_mac)
 - [Smoker.js](https://github.com/neilff/smoker-js) — a BBQ thermometer that uses websockets to read temperature.
+- [RobotArm](https://github.com/cheton/robotarm) — a JavaScript powered Robot Arm using Johnny-Five by [Cheton Wu](https://twitter.com/cheton)
+- [Sumobot Jr.](https://github.com/makenai/sumobot-jr) — a budget Sumobot powered by Johnny-Five by [Pawel Szymczykowski](https://twitter.com/makenai)
 
 ## Tutorials
 
