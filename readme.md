@@ -25,16 +25,16 @@ Javascript libraries you can use to make your nodebots come to life.
 
 Libraries that you may need depending on the board you're using for IO and Johnny-Five.
 
-- [Galileo-IO](https://github.com/rwaldron/galileo-io) — Compatibility library for the Intel Galileo/Edison/Joule.
+- [Galileo/Edison/Joule-IO](https://github.com/rwaldron/galileo-io) — Compatibility library for the Intel Galileo/Edison/Joule.
 - [Raspi-IO](https://github.com/nebrius/raspi-io) — Compatibility library for the Raspberry Pi.
-- [Particle-IO](https://github.com/rwaldron/particle-io) — Compatibility library for the Spark Particle/Core/Photon IO.
+- [Particle/Core/Photon-IO](https://github.com/rwaldron/particle-io) — Compatibility library for the Spark Particle/Core/Photon IO.
 - [BeagleBone-IO](https://github.com/julianduque/beaglebone-io) — Compatibility library for the BeagleBone Black.
 
 ### Plugins
 
 Plugins you may want to use to program your robots.
 
-- - [Temporal](https://github.com/rwaldron/temporal) — Task sequencing for your robot.
+- [Temporal](https://github.com/rwaldron/temporal) — Task sequencing for your robot.
 
 ## Examples
 
@@ -51,9 +51,9 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 
 ### Getting Started
 
-- [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/) on Smashing Magazine
+- [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/) by [James Miller](https://twitter.com/jimhunty) and [Mate Marschalko](https://twitter.com/MateMarschalko) for Smashing Magazine
 - [Getting started with Arduino, johnny-five and Websockets](http://blog.ricardofilipe.com/post/getting-started-arduino-johhny-five) by [Ricardo Magalhães](https://twitter.com/magalhini)
-- [How to Create a Smart Device With Arduino and Node.js Using PubNub](https://code.tutsplus.com/tutorials/how-to-create-a-smart-device-with-arduino-and-nodejs-using-pubnub--cms-25508) on TutsPlus
+- [How to Create a Smart Device With Arduino and Node.js Using PubNub](https://code.tutsplus.com/tutorials/how-to-create-a-smart-device-with-arduino-and-nodejs-using-pubnub--cms-25508) by [Tomomi Imura](http://twitter.com/girlie_mac) for TutsPlus
 
 ### Interesting Nodebots
 
@@ -63,7 +63,7 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 
 ## Books
 
-- [Make: JavaScript Robotics](https://www.makershed.com/products/make-javascript-robotics) — A great bot for getting started with Nodebots and learning how to make awesome projects with Johnny-Five.
+- [Make: JavaScript Robotics](https://www.makershed.com/products/make-javascript-robotics) — A great book for getting started with Nodebots and learning how to make awesome projects with Johnny-Five.
 
 
 ## Contribute
