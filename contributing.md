@@ -11,6 +11,13 @@ Ensure your pull request adheres to the following guidelines:
 - The links and additions are based on web powered robots.
 - The additions are easily read and understandable.
 - The links and additions should provide more resources for people to make their nodebots.
+- If you are linking an article:
+  - Please be sure to credit the author via providing a link to their Twitter account, or Github if they don't use Twitter.
+  - If the author wrote it for an online publication such as Smashing Magazine, please link the author as above and state which publication they wrote for.
+- If you are unsure where to list a tutorial appropriately:
+  - The 'Getting Started' section is for people who are new to hardware hacking and nodebots, link simple and easy tutorials.
+  - 'Interesting Nodebots' are for people who have some experience with hardware and nodebots, but aren't too overwhelming.
+  - 'Advanced Nodebots' are those who are very experienced with hardware and nodebots, who can take on the challenge of a large scale application and/or robot.
 
 Thank you for your suggestions!
 
