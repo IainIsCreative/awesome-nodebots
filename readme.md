@@ -1,6 +1,6 @@
 # Awesome Nodebots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A list of resources, links, tools, tutorials and more to make nodebots, robots powered by web technology.
+> A list of resources, links, tools, tutorials and more to make nodebots — robots powered by web technology.
 
 ## Contents
 
@@ -27,12 +27,15 @@ Libraries that you may need depending on the board you're using for IO and Johnn
 
 - [Galileo-IO](https://github.com/rwaldron/galileo-io) — Compatibility library for the Intel Galileo/Edison/Joule.
 - [Raspi-IO](https://github.com/nebrius/raspi-io) — Compatibility library for the Raspberry Pi.
-- [Particle-IO](https://github.com/rwaldron/particle-io) - Compatibility library for the Spark Particle/Core/Photon IO.
+- [Particle-IO](https://github.com/rwaldron/particle-io) — Compatibility library for the Spark Particle/Core/Photon IO.
 - [BeagleBone-IO](https://github.com/julianduque/beaglebone-io) — Compatibility library for the BeagleBone Black.
 
 ## Examples
 
 Amazing nodebots to see and be inspired by.
+
+- [Raspberry Pi KittyCam](https://github.com/girliemac/RPi-KittyCam) — an app using a Raspberry Pi with motion sensors and a camera by [Tomomi Imura](http://twitter.com/girlie_mac)
+- [Smoker.js](https://github.com/neilff/smoker-js) — a BBQ thermometer that uses websockets to read temperature.
 
 ## Tutorials
 
@@ -47,6 +50,8 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 ### Interesting Nodebots
 
 ### Advanced Nodebots
+
+- [KittyCam - Building a Raspberry Pi Camera with Cat Face Detection in Node.js](http://www.girliemac.com/blog/2015/12/25/kittycam-raspberrypi-camera-cat-face-recog-nodejs/) by [Tomomi Imura](http://twitter.com/girlie_mac)
 
 ## Books
 
