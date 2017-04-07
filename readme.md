@@ -5,6 +5,7 @@
 ## Contents
 
 - [Libraries](#libraries)
+  - [Compatibility Libraries](#compatibility-libraries)
 - [Examples](#examples)
 - [Tutorials](#tutorials)
   - [Getting Started](#getting-started)
@@ -13,13 +14,21 @@
 - [Books](#books)
 
 
-## Libraries
+## Libraries and Plugins
 
 Javascript libraries you can use to make your nodebots come to life.
 
-- [Johnny-Five](http://johnny-five.io) — The premier Robotics and IoT platform on JavaScript.
+- [Johnny-Five](http://johnny-five.io) — The premier Robotics and IoT platform for JavaScript.
 - [Temporal](https://github.com/rwaldron/temporal) — Task sequencing for your robot.
 
+### Compatibility Libraries
+
+Libraries that you may need depending on the board you're using for IO and Johnny-Five.
+
+- [Galileo-IO](https://github.com/rwaldron/galileo-io) — Compatibility library for the Intel Galileo/Edison/Joule.
+- [Raspi-IO](https://github.com/nebrius/raspi-io) — Compatibility library for the Raspberry Pi.
+- [Particle-IO](https://github.com/rwaldron/particle-io) - Compatibility library for the Spark Particle/Core/Photon IO.
+- [BeagleBone-IO](https://github.com/julianduque/beaglebone-io) — Compatibility library for the BeagleBone Black.
 
 ## Examples
 
@@ -30,6 +39,10 @@ Amazing nodebots to see and be inspired by.
 Tutorials you can read to learn how to make your own nodebots — from beginner, to advanced.
 
 ### Getting Started
+
+- [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/) on Smashing Magazine
+- [Getting started with Arduino, johnny-five and Websockets](http://blog.ricardofilipe.com/post/getting-started-arduino-johhny-five) by [Ricardo Magalhães](https://twitter.com/magalhini)
+- [How to Create a Smart Device With Arduino and Node.js Using PubNub](https://code.tutsplus.com/tutorials/how-to-create-a-smart-device-with-arduino-and-nodejs-using-pubnub--cms-25508) on TutsPlus
 
 ### Interesting Nodebots
 
