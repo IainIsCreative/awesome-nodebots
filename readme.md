@@ -8,6 +8,9 @@
   - [Compatibility Libraries](#compatibility-libraries)
   - [Plugins](#plugins)
 - [Examples](#examples)
+- [Videos](#videos)
+  - [Nodebot Demos](#nodebot-demos)
+  - [Talks](#talks)
 - [Tutorials](#tutorials)
   - [Getting Started](#getting-started)
   - [Interesting Nodebots](#interesting-nodebots)
@@ -44,6 +47,23 @@ Amazing nodebots to see and be inspired by.
 - [Smoker.js](https://github.com/neilff/smoker-js) — a BBQ thermometer that uses websockets to read temperature.
 - [RobotArm](https://github.com/cheton/robotarm) — a JavaScript powered Robot Arm using Johnny-Five by [Cheton Wu](https://twitter.com/cheton)
 - [Sumobot Jr.](https://github.com/makenai/sumobot-jr) — a budget Sumobot powered by Johnny-Five by [Pawel Szymczykowski](https://twitter.com/makenai)
+- [ServoControl](https://github.com/pixelslip/ServoControl) — a small prototype using `DeviceMotion` on a device to control a Servo by [Pierre Boumal](https://twitter.com/pixelslip)
+
+## Videos
+
+Videos showing examples of nodebot prototypes and ideas as well videos for learning.
+
+### Nodebot Demos
+
+Demonstrations of protoype nodebots and ideas.
+
+- [ServoControl](https://www.youtube.com/watch?v=oxHW6sVNzpk) — a demonstration of ServoControl by [Pierre Boumal](https://twitter.com/pixelslip)
+
+### Talks
+
+Talks about nodebots and Johnny-Five.
+
+- [Johnny-Five by John Chapman](https://www.youtube.com/watch?v=R3kZwBWGLqg) — a talk by [John Chapman](https://twitter.com/JohnChapman) for South East Michigan JavaScript Users, 2014.
 
 ## Tutorials
 
@@ -54,6 +74,8 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 - [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/) by [James Miller](https://twitter.com/jimhunty) and [Mate Marschalko](https://twitter.com/MateMarschalko) for Smashing Magazine
 - [Getting started with Arduino, johnny-five and Websockets](http://blog.ricardofilipe.com/post/getting-started-arduino-johhny-five) by [Ricardo Magalhães](https://twitter.com/magalhini)
 - [How to Create a Smart Device With Arduino and Node.js Using PubNub](https://code.tutsplus.com/tutorials/how-to-create-a-smart-device-with-arduino-and-nodejs-using-pubnub--cms-25508) by [Tomomi Imura](http://twitter.com/girlie_mac) for TutsPlus
+- [Getting Started with Johnny Five for IoT with Tomomi Imura (Part 1)](https://www.youtube.com/watch?v=sC72DCxQrcU) - A starter tutorial for using Johnny-Five and hardware by [Tomomi Imura](http://twitter.com/girlie_mac) for PubNub.
+- [Getting Started with Johnny Five for IoT with Tomomi Imura (Part 2)](https://www.youtube.com/watch?v=S1jVmBnzwH8) - Part two of the starter tutorial in using Johnny-Five by [Tomomi Imura](http://twitter.com/girlie_mac) for PubNub.
 
 ### Interesting Nodebots
 
