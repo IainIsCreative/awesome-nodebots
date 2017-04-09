@@ -5,8 +5,8 @@
 ## Contents
 
 - [Libraries and Plugins](#libraries-and-plugins)
-  - [Compatibility Libraries](#compatibility-libraries)
-  - [Plugins](#plugins)
+  - [IO Compatibility Plugins](#io-compatibility-plugins)
+  - [Robot Programming Plugins](#robot-programming-plugins)
 - [Examples](#examples)
 - [Videos](#videos)
   - [Nodebot Demos](#nodebot-demos)
@@ -24,16 +24,16 @@ Javascript libraries you can use to make your nodebots come to life.
 
 - [Johnny-Five](http://johnny-five.io) — The premier Robotics and IoT platform for JavaScript.
 
-### Compatibility Libraries
+### IO Compatibility Plugins
 
-Libraries that you may need depending on the board you're using for IO and Johnny-Five.
+Plugins that you may need depending on the board you're using for IO and Johnny-Five.
 
 - [Galileo/Edison/Joule-IO](https://github.com/rwaldron/galileo-io) — Compatibility library for the Intel Galileo/Edison/Joule.
 - [Raspi-IO](https://github.com/nebrius/raspi-io) — Compatibility library for the Raspberry Pi.
 - [Particle/Core/Photon-IO](https://github.com/rwaldron/particle-io) — Compatibility library for the Spark Particle/Core/Photon IO.
 - [BeagleBone-IO](https://github.com/julianduque/beaglebone-io) — Compatibility library for the BeagleBone Black.
 
-### Plugins
+### Robot Programming Plugins
 
 Plugins you may want to use to program your robots.
 
