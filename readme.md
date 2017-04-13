@@ -49,7 +49,7 @@ Amazing nodebots to see and be inspired by.
 - [RobotArm](https://github.com/cheton/robotarm) — a JavaScript powered Robot Arm using Johnny-Five by [Cheton Wu](https://twitter.com/cheton)
 - [Sumobot Jr.](https://github.com/makenai/sumobot-jr) — a budget Sumobot powered by Johnny-Five by [Pawel Szymczykowski](https://twitter.com/makenai)
 - [ServoControl](https://github.com/pixelslip/ServoControl) — a small prototype using `DeviceMotion` on a device to control a Servo by [Pierre Boumal](https://twitter.com/pixelslip)
-- [leapLamp](https://github.com/xseignard/leapLamp) - a Leapmotion controlled lamp using Johnny-Five and Node.
+- [leapLamp](https://github.com/xseignard/leapLamp) - a Leapmotion controlled lamp using Johnny-Five and Node by [Xavier Seignard](https://twitter.com/xavier_seignard).
 
 ## Videos
 
@@ -60,7 +60,7 @@ Videos showing examples of nodebot prototypes and ideas as well videos for learn
 Demonstrations of prototype nodebots and ideas.
 
 - [ServoControl](https://www.youtube.com/watch?v=oxHW6sVNzpk) — a demonstration of ServoControl by [Pierre Boumal](https://twitter.com/pixelslip)
-- [Leapmotion controlled lamp with arduino and node.js](https://vimeo.com/68530396) - a robot lamp using Leapmotion for control.
+- [Leapmotion controlled lamp with arduino and node.js](https://vimeo.com/68530396) - a robot lamp using Leapmotion for control by [Xavier Seignard](https://twitter.com/xavier_seignard).
 
 ### Talks
 
