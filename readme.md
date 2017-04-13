@@ -32,6 +32,7 @@ Plugins that you may need depending on the board you're using for IO and Johnny-
 - [Raspi-IO](https://github.com/nebrius/raspi-io) — Compatibility library for the Raspberry Pi.
 - [Particle/Core/Photon-IO](https://github.com/rwaldron/particle-io) — Compatibility library for the Spark Particle/Core/Photon IO.
 - [BeagleBone-IO](https://github.com/julianduque/beaglebone-io) — Compatibility library for the BeagleBone Black.
+- [Remote-IO](https://github.com/monteslu/remote-io) - Firmata Compatiblity IO Plugin for remote interaction with Johnny-Five.
 
 ### Robot Programming Plugins
 
@@ -71,17 +72,21 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 
 ### Getting Started
 
-- [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/) by [James Miller](https://twitter.com/jimhunty) and [Mate Marschalko](https://twitter.com/MateMarschalko) for Smashing Magazine
-- [Getting started with Arduino, johnny-five and Websockets](http://blog.ricardofilipe.com/post/getting-started-arduino-johhny-five) by [Ricardo Magalhães](https://twitter.com/magalhini)
-- [How to Create a Smart Device With Arduino and Node.js Using PubNub](https://code.tutsplus.com/tutorials/how-to-create-a-smart-device-with-arduino-and-nodejs-using-pubnub--cms-25508) by [Tomomi Imura](http://twitter.com/girlie_mac) for TutsPlus
+- [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/) by [James Miller](https://twitter.com/jimhunty) and [Mate Marschalko](https://twitter.com/MateMarschalko) for Smashing Magazine.
+- [Getting started with Arduino, johnny-five and Websockets](http://blog.ricardofilipe.com/post/getting-started-arduino-johhny-five) by [Ricardo Magalhães](https://twitter.com/magalhini).
+- [How to Create a Smart Device With Arduino and Node.js Using PubNub](https://code.tutsplus.com/tutorials/how-to-create-a-smart-device-with-arduino-and-nodejs-using-pubnub--cms-25508) by [Tomomi Imura](http://twitter.com/girlie_mac) for TutsPlus.
 - [Getting Started with Johnny Five for IoT with Tomomi Imura (Part 1)](https://www.youtube.com/watch?v=sC72DCxQrcU) - A starter tutorial for using Johnny-Five and hardware by [Tomomi Imura](http://twitter.com/girlie_mac) for PubNub.
 - [Getting Started with Johnny Five for IoT with Tomomi Imura (Part 2)](https://www.youtube.com/watch?v=S1jVmBnzwH8) - Part two of the starter tutorial in using Johnny-Five by [Tomomi Imura](http://twitter.com/girlie_mac) for PubNub.
+- [Connecting Johnny-five (Arduino, Raspberry Pi etc) over WiFi to the PC using ESP8266](https://medium.com/@imkiran/connecting-johnny-five-arduino-raspberry-pi-etc-over-wifi-to-the-pc-using-esp8266-a10348fdb300) by [Sai Kiran](https://twitter.com/_imkiran).
 
 ### Interesting Nodebots
 
+- [Read Analog Data Wirelessly with the Feather HUZZAH and Johnny-Five](http://www.samjulien.com/johnny-feather/) by [Sam Julien](https://twitter.com/samjulien).
+
 ### Advanced Nodebots
 
-- [KittyCam - Building a Raspberry Pi Camera with Cat Face Detection in Node.js](http://www.girliemac.com/blog/2015/12/25/kittycam-raspberrypi-camera-cat-face-recog-nodejs/) by [Tomomi Imura](http://twitter.com/girlie_mac)
+- [KittyCam - Building a Raspberry Pi Camera with Cat Face Detection in Node.js](http://www.girliemac.com/blog/2015/12/25/kittycam-raspberrypi-camera-cat-face-recog-nodejs/) by [Tomomi Imura](http://twitter.com/girlie_mac).
+- [NW.js, Johnny-Five & Arduino: A Wicked Trio](http://tangiblejs.com/posts/nw-js-johnny-five-arduino-wicked-trio) by [John-Phillipe Côté](https://twitter.com/jpcote) for TangibleJS.
 
 ## Books
 
