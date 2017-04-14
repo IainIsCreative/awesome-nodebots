@@ -50,6 +50,7 @@ Amazing nodebots to see and be inspired by.
 - [Sumobot Jr.](https://github.com/makenai/sumobot-jr) — a budget Sumobot powered by Johnny-Five by [Pawel Szymczykowski](https://twitter.com/makenai)
 - [ServoControl](https://github.com/pixelslip/ServoControl) — a small prototype using `DeviceMotion` on a device to control a Servo by [Pierre Boumal](https://twitter.com/pixelslip)
 - [leapLamp](https://github.com/xseignard/leapLamp) - a Leapmotion controlled lamp using Johnny-Five and Node by [Xavier Seignard](https://twitter.com/xavier_seignard).
+- [Johnny-Five Speech Recognition Lamp](https://github.com/IainIsCreative/johnny-five-speech-recognition-lamp) - a lamp that loops through colours and uses `SpeechRecognition` for control by [Iain](https://twitter.com/IainIsCreative).
 
 ## Videos
 
@@ -84,6 +85,7 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 ### Interesting Nodebots
 
 - [Read Analog Data Wirelessly with the Feather HUZZAH and Johnny-Five](http://www.samjulien.com/johnny-feather/) by [Sam Julien](https://twitter.com/samjulien).
+- [RemoteBots Cutting the Cord with Remote IO](https://www.iceddev.com/blog/remotebots-cutting-the-cord-with-remote-io/) by [Luis Monte](https://twitter.com/monteslu) for Iced Dev.
 
 ### Advanced Nodebots
 
