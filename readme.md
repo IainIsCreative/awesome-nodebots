@@ -8,6 +8,7 @@
   - [IO Compatibility Plugins](#io-compatibility-plugins)
   - [Robot Programming Plugins](#robot-programming-plugins)
 - [Examples](#examples)
+- [Articles](#articles)
 - [Videos](#videos)
   - [Nodebot Demos](#nodebot-demos)
   - [Talks](#talks)
@@ -39,6 +40,7 @@ Plugins that you may need depending on the board you're using for IO and Johnny-
 Plugins you may want to use to program your robots.
 
 - [Temporal](https://github.com/rwaldron/temporal) — Task sequencing for your robot.
+- [React Hardware](https://github.com/iamdustan/react-hardware) — A React library for programming your robot with React Components.
 
 ## Examples
 
@@ -51,6 +53,14 @@ Amazing nodebots to see and be inspired by.
 - [ServoControl](https://github.com/pixelslip/ServoControl) — a small prototype using `DeviceMotion` on a device to control a Servo by [Pierre Boumal](https://twitter.com/pixelslip)
 - [leapLamp](https://github.com/xseignard/leapLamp) - a Leapmotion controlled lamp using Johnny-Five and Node by [Xavier Seignard](https://twitter.com/xavier_seignard).
 - [Johnny-Five Speech Recognition Lamp](https://github.com/IainIsCreative/johnny-five-speech-recognition-lamp) - a lamp that loops through colours and uses `SpeechRecognition` for control by [Iain](https://twitter.com/IainIsCreative).
+- [RN-Arduino-Blink](https://github.com/christopherdro/RN-Arduino-Blink) — an example of using React Native and Johnny-Five for a simple blink function by [Christopher Dro](https://twitter.com/_cdro).
+
+## Articles
+
+Articles covering subjects involving Johnny-Five and JavaScript robotics.
+
+- [React Hardware](http://iamdustan.com/2015/12/16/react-hardware/) — an article by [Dustan Kasten](https://twitter.com/iamdustan) covering his React Hardware Library.
+- [Voice Controlling a Robot using Arduino, node.js, MQTT, WebSockets, Johnny-Five and HTML5 Speech Recognition!](https://utbrudd.bouvet.no/2015/01/11/voice-controlling-a-robot-using-arduino-node-js-mqtt-websockets-johnny-five-and-html5-speech-recognition/) — an article by [Mark West](https://twitter.com/markawest) covering a voice controlled SumoBot for Bouvet.
 
 ## Videos
 
@@ -81,11 +91,15 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 - [Getting Started with Johnny Five for IoT with Tomomi Imura (Part 1)](https://www.youtube.com/watch?v=sC72DCxQrcU) - A starter tutorial for using Johnny-Five and hardware by [Tomomi Imura](http://twitter.com/girlie_mac) for PubNub.
 - [Getting Started with Johnny Five for IoT with Tomomi Imura (Part 2)](https://www.youtube.com/watch?v=S1jVmBnzwH8) - Part two of the starter tutorial in using Johnny-Five by [Tomomi Imura](http://twitter.com/girlie_mac) for PubNub.
 - [Connecting Johnny-five (Arduino, Raspberry Pi etc) over WiFi to the PC using ESP8266](https://medium.com/@imkiran/connecting-johnny-five-arduino-raspberry-pi-etc-over-wifi-to-the-pc-using-esp8266-a10348fdb300) by [Sai Kiran](https://twitter.com/_imkiran).
+- [Hardware for Front End Developers](http://blog.ricardofilipe.com/post/light-my-house) by [Ricardo Magalhães](https://twitter.com/magalhini).
+- [Programming Raspberry-Pi Robots with JavaScript](https://www.packtpub.com/books/content/programming-raspberry-pi-robots-javascript) by [Anna Gerber](https://twitter.com/annagerber) for PacktPub.
+- [Learning JavaScript and Arduino programming with Johnny-Five](https://utbrudd.bouvet.no/2014/12/30/learning-javascript-and-arduino-programming-with-johnny-five/) by [Mark West](https://twitter.com/markawest) for Bouvet.
 
 ### Interesting Nodebots
 
 - [Read Analog Data Wirelessly with the Feather HUZZAH and Johnny-Five](http://www.samjulien.com/johnny-feather/) by [Sam Julien](https://twitter.com/samjulien).
 - [RemoteBots Cutting the Cord with Remote IO](https://www.iceddev.com/blog/remotebots-cutting-the-cord-with-remote-io/) by [Luis Monte](https://twitter.com/monteslu) for Iced Dev.
+- [Control your Arduino with a web app via Meteor and Johnny Five](https://github.com/studiorabota/meteor-johnny-five-tutorial) by [Studio Rabota](https://twitter.com/studiorabota).
 
 ### Advanced Nodebots
 
