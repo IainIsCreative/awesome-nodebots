@@ -41,6 +41,7 @@ Plugins you may want to use to program your robots.
 
 - [Temporal](https://github.com/rwaldron/temporal) — Task sequencing for your robot.
 - [React Hardware](https://github.com/iamdustan/react-hardware) — A React library for programming your robot with React Components.
+- [J5 RC Receiver](https://github.com/rwaldron/j5-rc-receiver) — A plugin for Johnny-Five for using a Radio Control Receiver with your Robot.
 
 ## Examples
 
@@ -54,6 +55,8 @@ Amazing nodebots to see and be inspired by.
 - [leapLamp](https://github.com/xseignard/leapLamp) - a Leapmotion controlled lamp using Johnny-Five and Node by [Xavier Seignard](https://twitter.com/xavier_seignard).
 - [Johnny-Five Speech Recognition Lamp](https://github.com/IainIsCreative/johnny-five-speech-recognition-lamp) - a lamp that loops through colours and uses `SpeechRecognition` for control by [Iain](https://twitter.com/IainIsCreative).
 - [RN-Arduino-Blink](https://github.com/christopherdro/RN-Arduino-Blink) — an example of using React Native and Johnny-Five for a simple blink function by [Christopher Dro](https://twitter.com/_cdro).
+- [React & Johnny-Five Traffic Lights](https://github.com/IainIsCreative/react-johnny-five-traffic-lights) — a project using React and Johnny-Five for controlling a set of traffic lights by [Iain](https://twitter.com/IainIsCreative).
+- [Intel Edison Weather Station](https://www.hackster.io/rajjan/edison-weather-station-10b611) by [Rajjan](https://github.com/rajjan).
 
 ## Articles
 
@@ -94,6 +97,7 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 - [Hardware for Front End Developers](http://blog.ricardofilipe.com/post/light-my-house) by [Ricardo Magalhães](https://twitter.com/magalhini).
 - [Programming Raspberry-Pi Robots with JavaScript](https://www.packtpub.com/books/content/programming-raspberry-pi-robots-javascript) by [Anna Gerber](https://twitter.com/annagerber) for PacktPub.
 - [Learning JavaScript and Arduino programming with Johnny-Five](https://utbrudd.bouvet.no/2014/12/30/learning-javascript-and-arduino-programming-with-johnny-five/) by [Mark West](https://twitter.com/markawest) for Bouvet.
+- [JavaScript Powered Arduino with Johnny-Five](https://www.safaribooksonline.com/blog/2013/07/16/javascript-powered-arduino-with-johnny-five/) by [Derick Bailey](https://twitter.com/derickbailey) for Safari Books Online.
 
 ### Interesting Nodebots
 
@@ -109,6 +113,7 @@ Tutorials you can read to learn how to make your own nodebots — from beginner,
 ## Books
 
 - [Make: JavaScript Robotics](https://www.makershed.com/products/make-javascript-robotics) — A great book for getting started with Nodebots and learning how to make awesome projects with Johnny-Five.
+- [Learning JavaScript Robotics](https://www.packtpub.com/hardware-and-creative/learning-javascript-robotics?gclid=Cj0KEQjwp83KBRC2kev0tZzExLkBEiQAYxYXOiF5ar8k8SY4U80M4vGp184qCAkANVHcS5kE9__UKikaAspo8P8HAQ&gclsrc=aw.ds) — A detailed book on using Johnny-Five from components and boards to the web and online services.
 
 
 ## Contribute
