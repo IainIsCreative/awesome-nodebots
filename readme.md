@@ -64,7 +64,7 @@ Amazing nodebots to see and be inspired by.
 - [RN-Arduino-Blink](https://github.com/christopherdro/RN-Arduino-Blink) — an example of using React Native and Johnny-Five for a simple blink function by [Christopher Dro](https://twitter.com/_cdro).
 - [React & Johnny-Five Traffic Lights](https://github.com/IainIsCreative/react-johnny-five-traffic-lights) — a project using React and Johnny-Five for controlling a set of traffic lights by [Iain](https://twitter.com/IainIsCreative).
 - [Intel Edison Weather Station](https://www.hackster.io/rajjan/edison-weather-station-10b611) by [Rajjan](https://github.com/rajjan).
-- [OLEDJS Designer](https://github.com/hxlnt/oledjs-designer) — an application to draw image in the browser and show on an OLED display by [](). 
+- [OLEDJS Designer](https://github.com/hxlnt/oledjs-designer) — an application to draw image in the browser and show on an OLED display by [Rachel Simone Weil](https://twitter.com/partytimeHXLNT(). 
 
 ## Articles
 
